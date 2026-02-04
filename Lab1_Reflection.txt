@@ -1,0 +1,10 @@
+GitHub is important for Software Quality Assurance because it provides a centralized platform
+to store and manage QA artifacts such as test cases, test reports, and documentation.
+
+Version control helps teamwork by allowing multiple QA engineers to work on the same project
+simultaneously without overwriting each other’s work. Each change is recorded through commits,
+which improves coordination and accountability.
+
+Traceability improves software quality by maintaining a complete history of changes. It allows
+QA teams to track who made changes, when changes were made, and why they were made, which
+helps in audits, defect analysis, and continuous improvement.
