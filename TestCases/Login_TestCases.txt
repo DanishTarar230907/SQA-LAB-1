@@ -1,0 +1,24 @@
+Test Case ID: TC_LOGIN_001
+Test Case Title: Verify login with valid credentials
+
+Preconditions:
+- User is registered
+- Application is running
+- Login page is accessible
+
+Test Steps:
+1. Open the application
+2. Navigate to the Login page
+3. Enter a valid username
+4. Enter a valid password
+5. Click on the Login button
+
+Expected Result:
+- User should be successfully logged in
+- User should be redirected to the dashboard
+
+Actual Result:
+- To be filled after execution
+
+Status:
+- Not Executed
